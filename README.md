@@ -20,7 +20,7 @@ On reprend l'exemple du bucheron qui doit construire sa maison
 
 **Réalisez la state machine suivante :**
 
-![](D:\Nextcloud\Travail 2020-2021\IA\TD1-State Machine\Bucheron\images\README\Untitled.png)
+![](./images/README/Untitled.png)
 
 ## Explications
 
