@@ -1,5 +1,22 @@
 # TD - State Machine
 
+<!-- toc -->
+
+- [Instruction](#instruction)
+- [Objectif](#objectif)
+- [Explications](#explications)
+- [La classe WorldParameter / WorldConstante](#la-classe-worldparameter--worldconstante)
+- [La classe Transition](#la-classe-transition)
+- [L'enum ActionState](#lenum-actionstate)
+- [La classe mère State](#la-classe-mere-state)
+- [La classe StateMachine](#la-classe-statemachine)
+- [Les classes State spécifiques au projet](#les-classes-state-specifiques-au-projet)
+- [Les classes transition spécifique au projet](#les-classes-transition-specifique-au-projet)
+- [Réaliser la StateMachine spécifique](#realiser-la-statemachine-specifique)
+- [Questions de cours](#questions-de-cours)
+
+<!-- tocstop -->
+
 ## Instruction
 
 - Il est obligatoire de prendre un langage orienté objet, mais vous pouvez choisir celui que vous voulez
